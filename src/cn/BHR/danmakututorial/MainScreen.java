@@ -10,7 +10,6 @@ import com.badlogic.gdx.scenes.scene2d.ui.*;
 import com.badlogic.gdx.utils.*;
 import com.badlogic.gdx.utils.viewport.ScalingViewport;
 
-import cn.BHR.danmakututorial.entities.projectiles.SimpleRedBullet;
 import cn.BHR.danmakututorial.entities.*;
 import cn.BHR.danmakututorial.entities.npcs.NPCAndroid;
 import cn.BHR.danmakututorial.entities.players.PlayerAlice;
